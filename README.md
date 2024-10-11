@@ -5,4 +5,19 @@ This repository serves as
 1.Documentation of my methods in solving each levels. 
 2.Some key Components.
 
-#WalkThrough
+# WalkThrough
+
+### Bandit Level 0 ->level 1
+#### Knowledge: How to Connect to the server using SSH from a Terminal
+The Goal of this level is that we have to log into the game using SSH.
+Username - bandit0
+connect to-bandit.labs.overthewire.org
+port-2220
+
+### Command-> ssh bandit0@bandit.labs.overthewire.org -p 2220
+The password of next level (bandit1)is stored in the readme file which is located in the home directory.
+
+
+
+
+
